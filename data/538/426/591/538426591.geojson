@@ -1,0 +1,50 @@
+{
+  "id": 538426591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"VE",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191577,
+        421184969,
+        85632317,
+        85680521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12800591"
+    },
+    "wof:country":"VE",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "localadmin_id":421184969,
+            "postalcode_id":538426591,
+            "region_id":85680521
+        }
+    ],
+    "wof:id":538426591,
+    "wof:lastmodified":1460075871,
+    "wof:name":"6005",
+    "wof:parent_id":"421184969",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
